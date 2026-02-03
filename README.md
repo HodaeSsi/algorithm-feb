@@ -80,7 +80,7 @@ algorithm-feb
 |:--:|:--|:--:|:--|
 | **1일차 (월)** | 보물섬 | 골드 V | https://www.acmicpc.net/problem/2589 |
 | **2일차 (화)** | 아름다운 행렬 | 골드 III | https://www.acmicpc.net/problem/2829 |
-| **3일차 (수)** | 문제명 3 | 실버 | https://www.acmicpc.net/problem/번호 |
+| **3일차 (수)** | 흩날리는 시험지 속에서 내 평점이 느껴진거야 | 골드 III | https://www.acmicpc.net/problem/17951 |
 | **4일차 (목)** | 문제명 4 | 골드 | https://www.acmicpc.net/problem/번호 |
 | **5일차 (금)** | 문제명 5 | 골드 | https://www.acmicpc.net/problem/번호 |
 
