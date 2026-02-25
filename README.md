@@ -117,7 +117,7 @@ algorithm-feb
 | **13일차 (월)** | 나무 위의 구슬 | 골드 II | https://www.acmicpc.net/problem/14570 |
 | **14일차 (화)** | 동전 뒤집기 | 골드 I | https://www.acmicpc.net/problem/1285 |
 | **15일차 (수)** | 개구리 점프 | 골드 III | https://www.acmicpc.net/problem/17619 |
-| **16일차 (목)** | 문제명 4 | 골드+ | 링크 |
+| **16일차 (목)** | ㅋㅋ루ㅋㅋ | 골드 II | https://www.acmicpc.net/problem/20442 |
 | **17일차 (금)** | 문제명 5 | 골드+ | 링크 |
 | **스터디** | 가희와 베개 | 플래티넘 V | https://www.acmicpc.net/problem/24338 |
 
