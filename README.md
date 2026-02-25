@@ -119,6 +119,7 @@ algorithm-feb
 | **15일차 (수)** | 개구리 점프 | 골드 III | https://www.acmicpc.net/problem/17619 |
 | **16일차 (목)** | 문제명 4 | 골드+ | 링크 |
 | **17일차 (금)** | 문제명 5 | 골드+ | 링크 |
+| **스터디** | 가희와 베개 | 플래티넘 V | https://www.acmicpc.net/problem/24338 |
 
 <br/>
 
